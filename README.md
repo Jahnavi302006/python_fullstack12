@@ -20,3 +20,14 @@ env/Scripts/activate -- windows direct vs code
 pip install flask
 pip freeze > requirements.txt
 pip install -r requirements.txt
+
+# status codes
+200 OK
+201 Created
+204 No content
+400 Bad Request
+401 Unauthorized
+403 Forbidden 
+404 Not found
+500 Internal Server Error
+503 Service Unavailable
